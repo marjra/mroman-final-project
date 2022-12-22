@@ -11,7 +11,7 @@ npm install node-sass
 npm react-bootstrap bootstrap
 
 Para el desarrollo de la app:
-REact v.18
+REACT v.18
 HTML/CSS/JS
 Bootstrap
  
