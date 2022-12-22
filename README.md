@@ -1,5 +1,5 @@
 # Título del Proyecto
-PRoyecto Final Curso FrontEnd
+Proyecto Final Curso FrontEnd
 
 Proyecto creado en Reactjs v.18 para la busqueda de imágenes utilizanado la API de Pixabay con paginador para mostrar 28 imágenes por página.
 
