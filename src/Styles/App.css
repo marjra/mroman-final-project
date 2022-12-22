@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  font-smoothing: antialiased;
+  font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (min-width: 1200px) {
+  .body {
+    text-align: 20px;
+  }
+  div {
+    text-align: center;
+  }
+}
+
+@media (max-width: 780px) {
+  .body {
+    font-size: .6em;
+  }
+  div {
+    text-align: center;
+  }
+}
+
+@media (max-width: 320px) {
+  .body {
+      font-size: 1.2em;
+  }
+  div {
+    text-align: center;
+  }
+}  
